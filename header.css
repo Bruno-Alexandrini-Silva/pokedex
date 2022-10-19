@@ -1,7 +1,7 @@
 header {
     width: 100%;
     height: 80px;
-    background-color: red;
+    background-color: var(--red);
 }
 
 .header-content {
@@ -11,7 +11,10 @@ header {
     justify-content: space-between;
 }
 
-.logo {
-    width: 280px;
-    height: 81px;
+.header-content-logo {
+    height: 50px;
+}
+
+.header-content-description {
+    color: var(--white);
 }
