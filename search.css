@@ -1,0 +1,18 @@
+.search {
+    width: 100%;
+    background-color: var(--gray);
+}
+
+.search-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 250px;
+}
+
+.search-content-tittle {
+    font-size: 32px;
+    color: var(--black);
+    width: 230px;
+
+}
